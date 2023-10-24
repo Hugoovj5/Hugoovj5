@@ -1,0 +1,16 @@
+button, select, input {
+  margin: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+select {
+  padding: 5px;
+}
+
+input {
+  padding: 5px;
+  width: 60px;
+}
